@@ -4,8 +4,8 @@ Resolvendo alguns problemas em Scala.
 # Início
 27/Setembro/2018 as 20h11
 
-# Termino
-27/Setembro/2018 as 21h12
+# Término
+27/Setembro/2018 as 21h21
 
 # Informações
 O Projeto foi criado utilizando IntelliJ IDEA Communit + sbt:
